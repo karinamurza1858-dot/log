@@ -12,3 +12,4 @@
 git clone https://github.com/karinamurza1858-dot/log.git
 cd log
 pip install -r requirements.txt
+python log.py
